@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Policytics-testing-1/static/css/main.8820e821.css",
+    "main.js": "/Policytics-testing-1/static/js/main.31ea75a4.js",
+    "static/js/400.c3bb65fb.chunk.js": "/Policytics-testing-1/static/js/400.c3bb65fb.chunk.js",
+    "index.html": "/Policytics-testing-1/index.html",
+    "main.8820e821.css.map": "/Policytics-testing-1/static/css/main.8820e821.css.map",
+    "main.31ea75a4.js.map": "/Policytics-testing-1/static/js/main.31ea75a4.js.map",
+    "400.c3bb65fb.chunk.js.map": "/Policytics-testing-1/static/js/400.c3bb65fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8820e821.css",
+    "static/js/main.31ea75a4.js"
+  ]
+}
