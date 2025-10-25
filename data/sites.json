@@ -1,0 +1,336 @@
+[
+  {
+    "slug": "commongroundcg",
+    "name": "CommonGround.cg",
+    "url": "https://commonground.cg",
+    "domains": ["commonground.cg", "app.cg"],
+    "categories": ["Communication", "Communities", "Web3"],
+    "lastUpdated": "2025-10-21",
+    "overview": "Example keeps its terms intentionally lightweight, focusing on uptime promises and basic acceptable use. Policies are designed for demonstration purposes but still mirror real-world expectations for respectful behaviour.",
+    "riskLevel": "Low",
+    "riskSignals": [
+      "Terms can change without direct notification to users.",
+      "No formal SLA or credits if uptime targets are missed."
+    ],
+    "dataHighlights": {
+      "collection": "Aggregated traffic analytics and coarse device metadata for performance benchmarking.",
+      "sharing": "Infrastructure metrics shared with hosting providers; no commercial resale of data.",
+      "retention": "Anonymised telemetry is retained for 12 months before rolling deletion."
+    },
+    "recommendations": [
+      "Check the changelog quarterly for silent updates.",
+      "Opt out of analytics scripts if you prefer to minimise telemetry."
+    ],
+    "tosDetails": {
+      "userRights": [
+        "Use the service for personal or demonstration purposes without charge.",
+        "Access published documentation and export example datasets provided by the platform."
+      ],
+      "userAccounts": [
+        "Accounts are optional and primarily used to store demo preferences.",
+        "If you create an account you can delete it at any time from the dashboard."
+      ],
+      "intellectualProperty": [
+        "All sample content remains the property of Example.",
+        "You may copy snippets for educational purposes with attribution."
+      ],
+      "governingLaw": ["Terms are governed by the laws of Singapore."],
+      "externalLinks": [
+        "Demo pages may reference third-party APIs; Example is not responsible for their content."
+      ],
+      "usageLimits": [
+        "API calls are rate limited to 100 requests per hour across all demo keys.",
+        "Automated scraping of the demo environment is prohibited."
+      ],
+      "trademarks": [
+        "All Example logos are trademarks of Example and may not be reused without consent."
+      ],
+      "asIs": [
+        "Service is provided on an 'AS IS' basis without warranties of accuracy or availability."
+      ],
+      "acceptableUse": [
+        "Do not reverse engineer load tests or attempt to breach the sandbox environment.",
+        "No offensive or harmful content may be uploaded in feedback forms."
+      ],
+      "additionalProvisions": [
+        "Support is limited to email during business hours.",
+        "Example may publish anonymised usage metrics for benchmarking."
+      ]
+    },
+    "privacyDetails": {
+      "dataCollector": [
+        "Example Pte. Ltd., 123 Demo Road, Singapore 049910."
+      ],
+      "informationTypes": [
+        "Aggregated analytics such as page views and time on page.",
+        "Optional email address if you subscribe to release notes."
+      ],
+      "informationUse": [
+        "Operate and enhance the demonstration environment.",
+        "Send quarterly updates when you opt in."
+      ],
+      "securityMeasures": [
+        "TLS encryption for data in transit.",
+        "Access controls limiting telemetry dashboards to authorised staff."
+      ],
+      "retention": [
+        "Telemetry is retained for 12 months and then deleted.",
+        "Email subscriptions are removed immediately after you unsubscribe."
+      ],
+      "sharing": [
+        "Infrastructure partners that provide hosting and monitoring.",
+        "No sale or rental of data to advertisers."
+      ],
+      "userRights": [
+        "Request a copy or deletion of telemetry linked to your email.",
+        "Opt out of analytics tracking through the cookie banner."
+      ],
+      "cookies": [
+        "Essential cookies remember demo preferences.",
+        "Analytics cookies measure aggregate performance."
+      ],
+      "contact": [
+        "privacy@example.com for privacy requests.",
+        "+65 6000 0000 for urgent matters."
+      ]
+    },
+    "tosSummary": [
+      "Accounts are optional and the service is provided on an as-is basis with no warranties.",
+      "Users agree not to misuse the service or reverse engineer the underlying systems.",
+      "The company may update the terms at any time with continued use constituting acceptance."
+    ],
+    "privacySummary": [
+      "Collects basic usage analytics and anonymized device metadata to improve reliability.",
+      "Does not sell personal data; data may be shared with subprocessors for infrastructure.",
+      "Data retention is limited to 12 months unless legal obligations require longer storage."
+    ],
+    "notablePoints": [
+      "Terms are intentionally minimal but updates can happen without an email notice.",
+      "Deleting cookies will remove locally cached preferences but not analytics telemetry."
+    ]
+  },
+  {
+    "slug": "discord",
+    "name": "Discord",
+    "url": "https://discord.com",
+    "domains": ["discord.com", "discord.gg", "cdn.discordapp.com"],
+    "categories": ["Communication", "Communities", "Gaming"],
+    "lastUpdated": "2025-10-21",
+    "overview": "ShopMart operates a large-scale marketplace with heavy personalisation. The TOS emphasises fraud prevention and merchant protections, while the privacy policy leans on standard ecommerce data sharing.",
+    "riskLevel": "Moderate",
+    "riskSignals": [
+      "Automatic renewals on premium services require manual cancellation.",
+      "Logistics partners receive granular order and location information."
+    ],
+    "dataHighlights": {
+      "collection": "Tracks product views, cart interactions, and purchase history to fuel recommendations.",
+      "sharing": "Shares contact details and order metadata with fulfilment, payment, and marketing partners.",
+      "retention": "Order records retained indefinitely unless deletion is requested and there are no outstanding disputes."
+    },
+    "recommendations": [
+      "Review the marketing preferences dashboard to reduce promotional outreach.",
+      "Use virtual cards for premium subscriptions to simplify cancellation."
+    ],
+    "tosDetails": {
+      "userRights": [
+        "Purchase goods for personal or business use subject to merchant availability.",
+        "Access digital receipts and dispute transactions within 45 days."
+      ],
+      "userAccounts": [
+        "Active account required for checkouts, returns, and loyalty points tracking.",
+        "Two-factor authentication mandated for administrative merchant accounts."
+      ],
+      "intellectualProperty": [
+        "All product listings, images, and copy remain the property of ShopMart or the respective merchants.",
+        "Customers may not reproduce downloadable content for resale."
+      ],
+      "governingLaw": [
+        "Terms are governed by California law with arbitration seated in San Francisco."
+      ],
+      "externalLinks": [
+        "Checkout may redirect to bank authentication pages managed by issuing banks.",
+        "Marketplace listings may include third-party warranty sites."
+      ],
+      "usageLimits": [
+        "Daily spending capped at $10,000 for consumer accounts unless verified.",
+        "Merchants may suspend accounts engaging in high refund velocity."
+      ],
+      "trademarks": [
+        "ShopMart name and logos are registered trademarks and may not be used without permission."
+      ],
+      "asIs": [
+        "Marketplace services provided 'AS IS'; ShopMart disclaims liability for merchant-supplied goods."
+      ],
+      "acceptableUse": [
+        "No fraudulent chargebacks, abusive reviews, or attempts to manipulate pricing algorithms.",
+        "Resale of discounted goods in violation of merchant policies is prohibited."
+      ],
+      "additionalProvisions": [
+        "Binding arbitration with class-action waiver applies to most disputes.",
+        "Premium subscription renews automatically every 12 months unless cancelled."
+      ]
+    },
+    "privacyDetails": {
+      "dataCollector": ["ShopMart Inc., 200 Market Street, San Francisco, CA 94105."],
+      "informationTypes": [
+        "Account identifiers, order history, payment tokens, shipping addresses.",
+        "Device fingerprints, advertising IDs, and browsing sessions."
+      ],
+      "informationUse": [
+        "Personalise product recommendations and marketing campaigns.",
+        "Detect fraud and comply with financial regulations."
+      ],
+      "securityMeasures": [
+        "PCI-DSS compliant payment infrastructure.",
+        "Encryption at rest for payment tokens and salted hashing for passwords.",
+        "Dedicated fraud response team monitoring anomalies."
+      ],
+      "retention": [
+        "Order and tax records retained for at least seven years.",
+        "Inactive accounts anonymised after 24 months with no legal holds."
+      ],
+      "sharing": [
+        "Logistics providers, payment processors, marketing automation vendors.",
+        "Limited data sharing with data analytics partners under confidentiality agreements."
+      ],
+      "userRights": [
+        "Access, correct, or delete your data through the privacy center.",
+        "Opt out of targeted advertising and certain analytics cookies."
+      ],
+      "cookies": [
+        "Essential cookies maintain cart sessions.",
+        "Marketing cookies track campaign performance and retargeting."
+      ],
+      "contact": [
+        "privacy@shopmart.example for privacy requests.",
+        "Data Protection Officer: +1 (415) 555-0200."
+      ]
+    },
+    "tosSummary": [
+      "Requires a valid payment method on file before purchases can be shipped.",
+      "Merchants can suspend accounts for fraudulent or abusive orders without refund.",
+      "Disputes must go through binding arbitration in the user's home jurisdiction."
+    ],
+    "privacySummary": [
+      "Tracks on-site browsing activity for personalization and targeted promotions.",
+      "Shares order metadata with logistics partners and payment processors.",
+      "Offers granular controls for marketing emails but not for in-app notifications."
+    ],
+    "notablePoints": [
+      "Opting out of personalization limits product recommendations and dynamic pricing.",
+      "Account deletion automatically triggers removal of saved payment methods within 48 hours."
+    ]
+  },
+  {
+    "slug": "chat-co",
+    "name": "ChatCo",
+    "url": "https://chatco.example",
+    "domains": ["chatco.example", "app.chatco.example"],
+    "categories": ["Communication"],
+    "lastUpdated": "2024-11-08",
+    "overview": "ChatCo is a messaging network with rapid feature updates. Policies blend safety tooling with monetised add-ons, and message storage is centralised for moderation and support.",
+    "riskLevel": "Elevated",
+    "riskSignals": [
+      "Messages stored unencrypted at rest, with internal moderation access.",
+      "Broad license to reuse public channel content for promotional materials."
+    ],
+    "dataHighlights": {
+      "collection": "Collects message content, contacts, device identifiers, and IP-based location for security.",
+      "sharing": "Shares metadata with anti-spam vendors and law enforcement upon valid request.",
+      "retention": "Message history retained until deletion; backups may persist for 30 days."
+    },
+    "recommendations": [
+      "Enable disappearing messages for sensitive conversations.",
+      "Use the data export feature before account deletion to retain important records."
+    ],
+    "tosDetails": {
+      "userRights": [
+        "Send direct and group messages subject to community guidelines.",
+        "Download personal data exports and port contacts to other services."
+      ],
+      "userAccounts": [
+        "Accounts require a verified email or phone number and all minors must have guardian consent.",
+        "Premium accounts billed monthly with auto-renew unless cancelled."
+      ],
+      "intellectualProperty": [
+        "Users retain ownership of their content but grant ChatCo a license to host and moderate.",
+        "Public channel posts may be reused for promotional spotlights."
+      ],
+      "governingLaw": [
+        "Terms governed by the laws of Ireland, with disputes handled via arbitration in Dublin."
+      ],
+      "externalLinks": [
+        "Bots and integrations may surface third-party content; ChatCo not liable for external materials."
+      ],
+      "usageLimits": [
+        "Storage capped at 50 GB per workspace unless upgraded.",
+        "Rate limits apply to API bots posting more than 1,000 messages per hour."
+      ],
+      "trademarks": [
+        "ChatCo name and marks are protected; bots must follow branding guidelines."
+      ],
+      "asIs": [
+        "Service provided 'AS IS' and may experience downtime during maintenance windows."
+      ],
+      "acceptableUse": [
+        "No harassment, hate speech, or sharing of malware.",
+        "Automated scraping of private workspaces is prohibited."
+      ],
+      "additionalProvisions": [
+        "Emergency authorities may request expedited access to logs with valid legal orders.",
+        "Enterprise customers receive 99.9% uptime commitment."
+      ]
+    },
+    "privacyDetails": {
+      "dataCollector": ["ChatCo Ltd., 10 Messenger Square, Dublin 2, Ireland."],
+      "informationTypes": [
+        "Account credentials, device identifiers, IP-based location estimates.",
+        "Message content, attachments, reactions, and support tickets."
+      ],
+      "informationUse": [
+        "Deliver core messaging features and store conversation history.",
+        "Run safety tooling to detect spam, malware, and abuse.",
+        "Provide analytics dashboards to workspace administrators."
+      ],
+      "securityMeasures": [
+        "Transport Layer Security for data in transit.",
+        "Granular access controls and audit logs for employee access.",
+        "Automated malware scanning of file uploads."
+      ],
+      "retention": [
+        "Messages retained until deleted; backups persist for 30 days.",
+        "Account metadata retained for legal compliance up to five years."
+      ],
+      "sharing": [
+        "Infrastructure providers, spam detection vendors, and payment processors.",
+        "Law enforcement when required by applicable law."
+      ],
+      "userRights": [
+        "Export conversations, request deletion, or object to certain processing.",
+        "Enterprise administrators manage retention schedules for their workspace."
+      ],
+      "cookies": [
+        "Essential cookies maintain login sessions.",
+        "Optional cookies personalise tips and track feature adoption."
+      ],
+      "contact": [
+        "privacy@chatco.example for GDPR requests.",
+        "Data Protection Officer: +353 1 555 1234."
+      ]
+    },
+    "tosSummary": [
+      "Users must be 16+ and agree not to share illegal content or harassment.",
+      "Premium subscriptions renew automatically unless cancelled 24 hours in advance.",
+      "Company may suspend services during maintenance or security incidents without liability."
+    ],
+    "privacySummary": [
+      "Encrypts messages in transit but stores them unencrypted on company servers.",
+      "Uses automated scanning to flag spam; flagged messages are reviewed by moderators.",
+      "Provides a data export tool covering contacts, message history, and security logs."
+    ],
+    "notablePoints": [
+      "Emergency disclosure requests are processed within 30 minutes when legally valid.",
+      "Deleting an account purges message history for the user but not for conversation participants."
+    ]
+  }
+]
